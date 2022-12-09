@@ -1,0 +1,15 @@
+Sezgisel Düşünme nedir?
+Sezgisel düşünme temelde mantık veya analiz olmaksızın o andaki gerçeği anlamanıza yardımcı olan bir düşünce türüdür.
+
+!Faktoriyel!
+Faktöriyel, matematikte, sağına ünlem işareti konulmuş sayıya verilen isimdir.
+Faktöriyel fonksiyonu verilen pozitif tam sayının kendisinden önceki bütün tam sayılarla 1'e inilinceye kadar çarpılması sonucunda elde edilen çarpımı gösterir.
+Sıfır pozitif bir sayı olmamasına rağmen faktöriyeli tanım olarak bire eşittir: 0!=1
+Örnek olarak şunları gösterebiliriz:
+1! = 1.1=1
+2! = 2.1=2
+3! = 3.2.1=6
+4! = 4.3.2.1=24
+5! = 5.4.3.2.1=120
+
+www.patika.dev
